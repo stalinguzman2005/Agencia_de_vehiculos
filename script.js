@@ -10,15 +10,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Catálogo de vehículos coreanos actualizado
   const vehiclesData = [
-    { codigo:1, marca:"Kia", modelo:"Sportage", categoria:"SUV", precio_venta:25000, imagen:"https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/sportage/my26/discover/kia-sportage-hev-gtl-my26-1920x1080.png" },
+    { codigo:1, marca:"Kia", modelo:"Sportage", categoria:"SUV", precio_venta:25000, imagen:"https://di-uploads-pod28.dealerinspire.com/jerryseinersaltlakekia/uploads/2024/08/Seiner-Kia-Salt-Lake-2025-Kia-Sportage.png" },
     { codigo:2, marca:"Kia", modelo:"Cerato", categoria:"Sedán", precio_venta:18000, imagen:"https://hertzcayman.com/uploads/vehicles/kia-cerato.jpg" },
     { codigo:3, marca:"Hyundai", modelo:"Sonata New Rise", categoria:"Sedán", precio_venta:22000, imagen:"https://i.pinimg.com/736x/4a/c6/9c/4ac69c8f9655c3b2393ca429a2c699dc.jpg" },
-    { codigo:4, marca:"Hyundai", modelo:"Tucson", categoria:"SUV", precio_venta:27000, imagen:"https://fergaehijos.com/wp-content/uploads/2021/02/Hyundai_TUCSON_2024_Exterior_PI_SHOT06_34_Front_Lights_On_PHEV_T2P_4x3.png" },
+    { codigo:4, marca:"Hyundai", modelo:"Tucson", categoria:"SUV", precio_venta:27000, imagen:"https://hyundai-nicaragua.com/wp-content/uploads/2022/07/1280x720-3.jpg" },
     { codigo:5, marca:"Genesis", modelo:"G70", categoria:"Sedán", precio_venta:35000, imagen:"https://vehicle-images.dealerinspire.com/60ec-110012707/thumbnails/large/KMTG54SEXTU160627/5cefd28f8341ac7578a83daf611e95be.jpg" },
-    { codigo:6, marca:"Kia", modelo:"K5", categoria:"Sedán", precio_venta:28000, imagen:"https://d2ivfcfbdvj3sm.cloudfront.net/6CuQBqnwDeX0jDLP/54077/stills_0640_png/MY2024/54077/54077_st0640_116.webp?c=172&p=164&m=1&o=png&s=QTR_ML1Vd5TzDVWYwuEqXk" },
+    { codigo:6, marca:"Kia", modelo:"K5", categoria:"Sedán", precio_venta:28000, imagen:"https://hispanicmotorpress.org/wp-content/uploads/2024/02/21839-1.jpeg" },
     { codigo:7, marca:"Hyundai", modelo:"Sonata LF", categoria:"Sedán", precio_venta:24000, imagen:"https://360view.3dmodels.org/zoom/Hyundai/Hyundai_Sonata_Mk7_LF_HQinterior_2014_1000_0001.jpg" },
     { codigo:8, marca:"Kia", modelo:"Morning", categoria:"Hatchback", precio_venta:15000, imagen:"https://www.rutamotor.com/wp-content/uploads/2023/07/Kia-Morning-Rutamotor-1.jpg" },
-    { codigo:9, marca:"Hyundai", modelo:"Sonata Avante", categoria:"Sedán", precio_venta:26000, imagen:"https://dipc74lyd9rh6.cloudfront.net/media/catalog/product/cache/97be6ef2906bcc5262dd54b421e472c3/D/N/DN8FL_SA_DVS4L9A1JGG14I_T2G_02_nwkdry_result_31.png" }
+    { codigo:9, marca:"Hyundai", modelo:"Sonata Avante", categoria:"Sedán", precio_venta:26000, imagen:"https://www.rustywallacehyundai.com/blogs/4760/wp-content/uploads/2024/07/Hyundai-Sonata-for-Sale-2024-Hyundai-Sonata-N-Line-Highway.jpg" }
   ];
 
   let cart = [];
