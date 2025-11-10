@@ -2,7 +2,7 @@
    ESTILOS GENERALES
 ========================== */
 body {
-  background-color: #ffa600;
+  background-color: #ffffff;
   color: #ffffff;
   font-family: 'Poppins', sans-serif;
   margin: 0;
@@ -17,7 +17,7 @@ body {
 }
 .navbar-brand {
   font-weight: bold;
-  color: #ff7b00 !important;
+  color: #ee7700 !important;
   display: flex;
   align-items: center;
   gap: 8px;
@@ -30,12 +30,12 @@ body {
   transition: color 0.3s ease;
 }
 .nav-link:hover {
-  color: #fa7a02 !important;
+  color: #fcf8f4 !important;
 }
 #searchInput {
   border-radius: 20px;
   padding: 6px 12px;
-  border: 1px solid #ff7b00;
+  border: 1px solid #ffffff;
   background-color: #111;
   color: #ffeeee;
 }
@@ -69,7 +69,7 @@ section {
   padding: 60px 0;
 }
 #inicio h2 {
-  color: #ff7b00;
+  color: #ffffff;
   font-weight: bold;
 }
 #vehiculos h2 {
