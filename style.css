@@ -61,7 +61,7 @@ header::after {
 header h1 {
   position: relative;
   font-weight: bold;
-  color: #fefefe;
+  color: #ffffff;
 }
 
 /* SECCIONES */
@@ -122,7 +122,7 @@ section {
 .card .btn-primary {
   background-color: #f66f00;
   border: none;
-  color: #dfdfdf;
+  color: #ffffff;
   transition: background-color 0.3s ease;
 }
 .card .btn-primary:hover {
@@ -151,21 +151,21 @@ section {
 }
 .btn-secondary {
   background-color: #333;
-  color: rgb(255, 255, 255);
+  color: rgb(252, 252, 252);
 }
 .btn-secondary:hover {
-  background-color: #555;
+  background-color: #6d6d6d;
 }
 #checkoutBtn,
 #addToCartBtn,
 #processPaymentBtn {
-  background-color: #ffffff;
+  background-color: #0a9000;
   border: none;
 }
 #checkoutBtn:hover,
 #addToCartBtn:hover,
 #processPaymentBtn:hover {
-  background-color: #ffffff;
+  background-color: #1eff00;
 }
 
 /* CONTADOR */
