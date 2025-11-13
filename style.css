@@ -90,7 +90,7 @@ section {
 }
 .card:hover {
   transform: translateY(-5px);
-  border-color: #ff00b3;
+  border-color: #ff6f00;
   box-shadow: 0 4px 12px rgba(255, 123, 0, 0.5);
 }
 .card img {
@@ -190,3 +190,4 @@ footer {
   text-align: center;
   border-top: 2px solid #ff7b00;
 }
+
